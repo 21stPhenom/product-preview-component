@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-component-using-css-flexbox-DcuEesOOJp)
 - Live Site URL: (https://21stPhenom.github.io/frontend-mentor-projects/)
 
 ## My process
@@ -58,6 +58,6 @@ In the course of building this project, I made use of the following tools:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/21stPhenom)
-- Twitter - [@yourusername](https://www.twitter.com/_21st_Phenom)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/21stPhenom)
+- Twitter - [@_21st_Phenom](https://www.twitter.com/_21st_Phenom)
 - Facebook - [@21stPhenom](https://www.facebook.com/21stPhenom)
