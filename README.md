@@ -38,7 +38,7 @@ Users should be able to:
 - Two of the most efficient methods I settled for were Flexbox and Grid. I later settled for Flexbox because it was easier for me to use. 
 - After putting down the basic requirements on paper, I started coding the site. I finished with the HTML code within 30 minutes. I grouped the entire page into sections like the main container, flex container, image container and text containers. I also added classes to specific elements that needed styling in the CSS code.
 - After that I added CSS to the page step by step, starting from the largest containers(`main-container`) to the smallest(`price-container`). I added CSS in a mobile-first workflow, which means that I started designing for mobile screens, before adding media queries for the largeer screens.
-- At the end of all the coding, I pushed the code to Github and deployed on [Netlify], [Heroku] or [Vercel].
+- At the end of all the coding, I pushed the code to Github and deployed on Github Pages.
 
 ### Built with
 In the course of building this project, I made use of the following tools:
@@ -61,3 +61,4 @@ In the course of building this project, I made use of the following tools:
 - Frontend Mentor - (https://www.frontendmentor.io/profile/21stPhenom)
 - Twitter - [@_21st_Phenom](https://www.twitter.com/_21st_Phenom)
 - Facebook - [@21stPhenom](https://www.facebook.com/21stPhenom)
+.
